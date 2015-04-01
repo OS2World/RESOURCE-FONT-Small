@@ -1,0 +1,29 @@
+SMALL.FON - Small bit-mapped font for OS/2 PM
+
+The fonts contained in SMALL.FON were created using the Font Editor
+that was included in the OS/2 PM Softset (Version 1.2).  There are two
+versions of the font: one for EGA (8 pt) and another for VGA (6 pt).
+They can be installed like any normal PM font, and I've been able to use
+them under both version 1.30.1 and OS/2 2.0 (Beta 6.177).
+
+Included in this package you will find the support code necessary to
+convert one or more .FNT files (created by FONTEDIT) into a single .FON 
+file.  You must have the Microsoft Assembler (MASM), the resource compiler
+(RC) and the linker (LINK) in order to do this build.
+
+Any problems?  Send me a message to my CompuServe mailbox, 72607,3111.
+
+
+History of Changes:
+
+   Jan 92: Submitted to CompuServe.
+
+15 Jun 92: Fixed font metrics and resubmitted to CompuServe.
+
+10 Nov 92: Added XGA version of font for new 32bit GRE on SVGA
+           and included OBJ files for those who want to edit the
+           font but don't have MASM. (added by John Bridges [75300,2137])
+
+
+
+
